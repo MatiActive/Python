@@ -1,0 +1,5 @@
+name = input("Podaj swoje imie : ")
+secondName = input("podaj nazwisko : ")
+adress = input("podaj miejsce zamieszkania : ")
+age = int(input("podaj swoj wiek : "))
+print(f"Masz na imie {name} {secondName} mieszkasz w {adress} i masz {age} lat")

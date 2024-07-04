@@ -1,0 +1,8 @@
+numbers = tuple( (50, 100, 150, 200, 250) )
+print(numbers)
+print("typ krotki to", type(numbers))
+print("ilosc elementow w krotce to :", len(numbers))
+print("ostatni element krotki to: ", numbers[-1])
+print("ostatni element krotki to: ", numbers[len(numbers)-1])
+print("elementy krotki od drugiej do czwartej :", numbers[1:4])
+print("elementy krotki od tylu :", numbers[::-1])

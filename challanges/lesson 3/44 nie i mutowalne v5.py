@@ -22,6 +22,6 @@ print("min", min)
 print("max", max)
 
 avgTemp, minTemp, maxTemp = data
-print("avgTemo: ", avgTemp)
-print("minTemo: ", minTemp)
-print("maxTemo: ", maxTemp)
+print("avgTemp: ", avgTemp)
+print("minTemp: ", minTemp)
+print("maxTemp: ", maxTemp)

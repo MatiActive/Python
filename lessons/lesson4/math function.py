@@ -20,12 +20,12 @@ print("-----")
 import math
 # wartosc bezwzgledna 
 
-print(abs(5))
-print(abs(-5))
+print(abs(5)) # 5
+print(abs(-5)) # 5
 # Zaokraglenie do najmniejszej liczby calkowitej nie mniej niz podana wartosc
-print(math.ceil(6.78))
-print(math.ceil(20.12))
-print(math.ceil(-3.23))
+print(math.ceil(6.78)) # 7
+print(math.ceil(20.12)) # 21
+print(math.ceil(-3.23)) # -3
 
 # zaokraglenie do najwiekszej liczby calkowitej nie wiejszej niz podana wartosc 
 print("-----")
